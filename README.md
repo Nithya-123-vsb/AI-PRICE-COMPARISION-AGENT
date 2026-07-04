@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/84f52eff-3972-428a-b751-13e6abe46047
+View your app in AI Studio: https://ai-price-comparison-agent-683563598333.asia-southeast1.run.app/
 
 ## Run Locally
 
